@@ -1,0 +1,1 @@
+this is a simple calculator with addition , subtraction , multiplication and division functions that written with php oop. 
